@@ -1,5 +1,5 @@
 # Welcome to my Portfolio
 
-To start this projectL
+To start this project:
 
 ### `npm start`
