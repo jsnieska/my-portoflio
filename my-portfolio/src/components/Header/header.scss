@@ -1,8 +1,21 @@
 .header {
-  height: 10vh;
   background-color: black;
+  color: white;
+  height: 10vh;
 
-  p {
-    color: white
+  .container {
+    display: flex;
+    justify-content: space-around;
+    padding: 0 40px;
   }
+
+  nav {
+    display: flex;
+    gap: 10px;
+  }
+
+  .logo {
+    font-size: 1.8rem;
+  }
+
 }
