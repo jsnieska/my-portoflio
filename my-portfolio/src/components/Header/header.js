@@ -8,9 +8,9 @@ function Header() {
         <p>My Porfolio by Juzoas</p>
       </div>
       <nav>
-        <p>Test</p>
-        <p>Test</p>
-        <p>Test</p>
+        <p>About Me</p>
+        <p>Work Expierence</p>
+        <p>Project</p>
       </nav>
       </div>
     </div>
