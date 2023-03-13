@@ -15,12 +15,21 @@
   .burger {
     width: 80px;
     height: 80px;
+
+    @include lg {
+      display: none
+    }
   }
 
   nav {
-    display: flex;
-    gap: 10px;
-    font-size: 1.3rem;
+    display: none;
+
+    @include lg {
+      display: flex;
+      gap: 10px;
+      font-size: 1.3rem;
+
+    }
   }
 
   .logo {

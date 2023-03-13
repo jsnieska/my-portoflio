@@ -8,14 +8,14 @@ function Header() {
         <div className='logo'>
           <p>My Porfolio by Juzoas</p>
         </div>
-        <div className='burger'>
-          <Burger/>
-        </div>
         <nav>
           <p>About Me</p>
           <p>Work Expierence</p>
           <p>Projects</p>
       </nav>
+        <div className='burger'>
+          <Burger/>
+        </div>
       </div>
     </div>
   );
