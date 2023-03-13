@@ -1,6 +1,8 @@
+@import '../Scss/variables.scss';
+
 .header {
-  background-color: black;
-  color: white;
+  background-color: $black-bg;
+  color: $main-text;
 
   .container {
     padding: 0 40px;
